@@ -41,20 +41,4 @@ Bu projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
      mvn clean javafx:run
      ```
 
-## **Geliştirme ve Katkı**
-
-Bu projeye katkıda bulunmak isterseniz:
-
-1. **Fork** yapın.  
-2. Yeni bir **branch** oluşturun:  
-   ```bash
-   git checkout -b yeni-ozellik
-   ```
-3. Değişiklikleri yapıp **commit** atın:  
-   ```bash
-   git commit -m "Yeni özellik eklendi"
-   ```
-4. **Push** edip **Pull Request (PR)** gönderin.  
-
----
 
